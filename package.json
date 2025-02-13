@@ -1,0 +1,24 @@
+{
+	"name": "jsutils",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "vitest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pavandot/JavaScript-util-functions.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pavandot/JavaScript-util-functions/issues"
+	},
+	"homepage": "https://github.com/pavandot/JavaScript-util-functions#readme",
+	"description": "",
+	"devDependencies": {
+		"vitest": "^3.0.5"
+	}
+}
